@@ -1,0 +1,27 @@
+{
+  "name": "spazeworkexpresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadakosa/spazeworkExpressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadakosa/spazeworkExpressTest/issues"
+  },
+  "homepage": "https://github.com/sadakosa/spazeworkExpressTest#readme"
+}
